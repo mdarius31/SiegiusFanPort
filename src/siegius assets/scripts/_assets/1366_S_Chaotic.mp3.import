@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dwdvax6vcr5k3"
+path="res://.godot/imported/1366_S_Chaotic.mp3-376988c3334437368469d10bd1e3517b.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/scripts/_assets/1366_S_Chaotic.mp3"
+dest_files=["res://.godot/imported/1366_S_Chaotic.mp3-376988c3334437368469d10bd1e3517b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

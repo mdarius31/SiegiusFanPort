@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://belk6o7gofeiw"
+path="res://.godot/imported/1378_S_Whip2.mp3-b9cf82c3dcae0837656a131ab107e33f.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/scripts/_assets/1378_S_Whip2.mp3"
+dest_files=["res://.godot/imported/1378_S_Whip2.mp3-b9cf82c3dcae0837656a131ab107e33f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://vt4la6vupqbw"
+path="res://.godot/imported/1371_S_Champ.mp3-6fdcc95ca133d2f0fe9ee5e9e9fc06f9.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/scripts/_assets/1371_S_Champ.mp3"
+dest_files=["res://.godot/imported/1371_S_Champ.mp3-6fdcc95ca133d2f0fe9ee5e9e9fc06f9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

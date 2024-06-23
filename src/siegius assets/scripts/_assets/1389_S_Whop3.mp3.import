@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cebcu8f5m6g15"
+path="res://.godot/imported/1389_S_Whop3.mp3-fdcd8dcf1d5cd8b3f38f51e479443003.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/scripts/_assets/1389_S_Whop3.mp3"
+dest_files=["res://.godot/imported/1389_S_Whop3.mp3-fdcd8dcf1d5cd8b3f38f51e479443003.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ppyx7h2ctvvm"
+path="res://.godot/imported/1367_S_Gate.mp3-d8fe38f8b1a257716dd726295bac31cf.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/scripts/_assets/1367_S_Gate.mp3"
+dest_files=["res://.godot/imported/1367_S_Gate.mp3-d8fe38f8b1a257716dd726295bac31cf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

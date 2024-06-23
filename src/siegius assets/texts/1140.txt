@@ -1,0 +1,5 @@
+Screenshot mode
+--- RECORDSEPARATOR ---
+Use WASD/Arrows to scroll
+--- RECORDSEPARATOR ---
+Click anywhere to return

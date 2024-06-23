@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dif361b0be6ms"
+path="res://.godot/imported/1404_S_Die8.mp3-8809390f8bf2478fb2e0a095c76d3763.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/sounds/1404_S_Die8.mp3"
+dest_files=["res://.godot/imported/1404_S_Die8.mp3-8809390f8bf2478fb2e0a095c76d3763.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

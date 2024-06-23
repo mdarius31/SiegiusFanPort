@@ -1,0 +1,5 @@
+Melee:
+--- RECORDSEPARATOR ---
+Ranged:
+--- RECORDSEPARATOR ---
+Magic:

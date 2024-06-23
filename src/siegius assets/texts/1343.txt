@@ -1,0 +1,3 @@
+2. Set enemies
+--- RECORDSEPARATOR ---
+on fire

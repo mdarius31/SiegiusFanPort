@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://buiw5a6d7fpby"
+path="res://.godot/imported/1373_S_Char.mp3-54048004cb10c2aadf7d719c69e0248b.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/sounds/1373_S_Char.mp3"
+dest_files=["res://.godot/imported/1373_S_Char.mp3-54048004cb10c2aadf7d719c69e0248b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

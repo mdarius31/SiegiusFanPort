@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ydh8rec8pm6a"
+path="res://.godot/imported/2_S_Place.mp3-18d12227a7a7578d78404c8eafe37f1c.mp3str"
+
+[deps]
+
+source_file="res://siegius assets/sounds/2_S_Place.mp3"
+dest_files=["res://.godot/imported/2_S_Place.mp3-18d12227a7a7578d78404c8eafe37f1c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,9 @@
+Fill up your army bar at the bottom 
+--- RECORDSEPARATOR ---
+by dragging soldiers and spells onto 
+--- RECORDSEPARATOR ---
+empty slots.
+--- RECORDSEPARATOR ---
+You can use multiple of the same 
+--- RECORDSEPARATOR ---
+soldier or spell.
