@@ -1,6 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://cmx5m4dimcq5n"]
+[gd_scene load_steps=4 format=3 uid="uid://cmx5m4dimcq5n"]
 
-[ext_resource type="Texture2D" uid="uid://dp0kcnwg7f7l0" path="res://siegius assets/shapes/105.svg" id="1_hcvus"]
+[ext_resource type="Texture2D" uid="uid://bpqbbjnbtf3aw" path="res://siegius assets/shapes/105.svg" id="1_hcvus"]
+[ext_resource type="PackedScene" uid="uid://be3ciuturjeb8" path="res://scenes/banner.tscn" id="1_viy8g"]
 
 [sub_resource type="Environment" id="Environment_6pos3"]
 background_mode = 3
@@ -36,9 +37,15 @@ alignment = 1
 layout_mode = 2
 size_flags_horizontal = 3
 
-[node name="Control2" type="Control" parent="HBoxContainer"]
+[node name="Banner" parent="HBoxContainer/menu" instance=ExtResource("1_viy8g")]
+position = Vector2(132, 193)
+
+[node name="options" type="Control" parent="HBoxContainer"]
 layout_mode = 2
 size_flags_horizontal = 3
+
+[node name="Banner" parent="HBoxContainer/options" instance=ExtResource("1_viy8g")]
+position = Vector2(216, 193)
 
 [node name="105" type="TextureRect" parent="."]
 modulate = Color(1.05, 1.05, 1.05, 1)
