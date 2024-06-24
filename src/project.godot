@@ -21,6 +21,10 @@ window/size/viewport_width=700
 window/size/viewport_height=400
 window/stretch/mode="canvas_items"
 
+[filesystem]
+
+import/blender/enabled=false
+
 [importer_defaults]
 
 texture={
