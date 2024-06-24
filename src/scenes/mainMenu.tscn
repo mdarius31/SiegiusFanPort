@@ -1,8 +1,10 @@
 [gd_scene load_steps=7 format=3 uid="uid://cmx5m4dimcq5n"]
 
 [ext_resource type="PackedScene" uid="uid://be3ciuturjeb8" path="res://scenes/banner.tscn" id="1_viy8g"]
-[ext_resource type="Texture2D" uid="uid://ceqnj8mqr607" path="res://siegius assets/texts_svg/167.svg" id="2_nsi3t"]
+[ext_resource type="FontFile" uid="uid://dswc4tf3gyjxm" path="res://siegius assets/fonts/114_Lithos Pro Regular.woff" id="2_jjxkg"]
 [ext_resource type="Texture2D" uid="uid://bpqbbjnbtf3aw" path="res://siegius assets/shapes/105.svg" id="3_phj3h"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_ltogv"]
 
 [sub_resource type="Shader" id="Shader_m2bdp"]
 code = "shader_type canvas_item;
@@ -55,18 +57,6 @@ shader_parameter/bloomRadius = 1.0
 shader_parameter/bloomThreshold = 1.0
 shader_parameter/bloomIntensity = 1.0
 
-[sub_resource type="Environment" id="Environment_4v710"]
-background_mode = 3
-glow_enabled = true
-glow_levels/1 = 16.0
-glow_levels/2 = 16.0
-glow_levels/3 = 8.0
-glow_levels/5 = 0.0
-glow_normalized = true
-glow_strength = 2.0
-glow_blend_mode = 1
-glow_hdr_threshold = 1.1
-
 [node name="MainMenu" type="Control"]
 layout_mode = 3
 anchors_preset = 15
@@ -94,7 +84,7 @@ position = Vector2(132, 193)
 [node name="Control" type="Control" parent="HBoxContainer/menu"]
 anchors_preset = 0
 offset_left = 59.0
-offset_top = 88.0
+offset_top = 98.0
 offset_right = 204.0
 offset_bottom = 263.0
 
@@ -110,10 +100,15 @@ alignment = 1
 [node name="VBoxContainer" type="VBoxContainer" parent="HBoxContainer/menu/Control/HBoxContainer"]
 layout_mode = 2
 
-[node name="TextureButton" type="TextureButton" parent="HBoxContainer/menu/Control/HBoxContainer/VBoxContainer"]
-self_modulate = Color(0.8, 0.8, 0.8, 1)
+[node name="Button" type="Button" parent="HBoxContainer/menu/Control/HBoxContainer/VBoxContainer"]
 layout_mode = 2
-texture_normal = ExtResource("2_nsi3t")
+theme_override_colors/font_color = Color(1, 0.968627, 0.811765, 0.45098)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 3
+theme_override_fonts/font = ExtResource("2_jjxkg")
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxEmpty_ltogv")
+text = "CAMPAIGN"
 
 [node name="options" type="Control" parent="HBoxContainer"]
 layout_mode = 2
@@ -133,7 +128,7 @@ offset_right = -60.0
 offset_bottom = 263.0
 grow_horizontal = 0
 
-[node name="106" type="TextureRect" parent="."]
+[node name="105" type="TextureRect" parent="."]
 modulate = Color(1.1, 1.1, 1.1, 1)
 self_modulate = Color(0.8, 0.8, 0.8, 1)
 material = SubResource("ShaderMaterial_u3kbg")
@@ -148,6 +143,3 @@ offset_bottom = 127.0
 grow_horizontal = 2
 texture = ExtResource("3_phj3h")
 expand_mode = 1
-
-[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
-environment = SubResource("Environment_4v710")
