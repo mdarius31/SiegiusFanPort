@@ -52,4 +52,4 @@ texture={
 
 [rendering]
 
-renderer/rendering_method="mobile"
+viewport/hdr_2d=true
