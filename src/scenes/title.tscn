@@ -1,0 +1,34 @@
+[gd_scene load_steps=3 format=3 uid="uid://ttwjmq7akrqi"]
+
+[ext_resource type="Texture2D" uid="uid://bpqbbjnbtf3aw" path="res://siegius assets/shapes/105.svg" id="1_3efug"]
+
+[sub_resource type="Environment" id="Environment_oe4vu"]
+background_mode = 3
+glow_enabled = true
+glow_levels/1 = 16.0
+glow_levels/2 = 16.0
+glow_levels/3 = 8.0
+glow_levels/5 = 0.0
+glow_normalized = true
+glow_intensity = 8.0
+glow_strength = 2.0
+glow_blend_mode = 1
+glow_hdr_threshold = 1.05
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="105" type="TextureRect" parent="."]
+modulate = Color(1.05, 1.05, 1.05, 1)
+self_modulate = Color(0.8, 0.8, 0.8, 1)
+layout_mode = 1
+offset_right = 151.0
+offset_bottom = 35.0
+texture = ExtResource("1_3efug")
+expand_mode = 1
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_oe4vu")

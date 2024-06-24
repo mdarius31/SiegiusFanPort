@@ -1,20 +1,8 @@
 [gd_scene load_steps=4 format=3 uid="uid://cmx5m4dimcq5n"]
 
-[ext_resource type="Texture2D" uid="uid://bpqbbjnbtf3aw" path="res://siegius assets/shapes/105.svg" id="1_hcvus"]
 [ext_resource type="PackedScene" uid="uid://be3ciuturjeb8" path="res://scenes/banner.tscn" id="1_viy8g"]
-
-[sub_resource type="Environment" id="Environment_6pos3"]
-background_mode = 3
-glow_enabled = true
-glow_levels/1 = 16.0
-glow_levels/2 = 16.0
-glow_levels/3 = 8.0
-glow_levels/5 = 0.0
-glow_normalized = true
-glow_intensity = 8.0
-glow_strength = 2.0
-glow_blend_mode = 1
-glow_hdr_threshold = 1.05
+[ext_resource type="Texture2D" uid="uid://ceqnj8mqr607" path="res://siegius assets/texts_svg/167.svg" id="2_nsi3t"]
+[ext_resource type="PackedScene" uid="uid://ttwjmq7akrqi" path="res://scenes/title.tscn" id="3_6egk8"]
 
 [node name="MainMenu" type="Control"]
 layout_mode = 3
@@ -40,6 +28,29 @@ size_flags_horizontal = 3
 [node name="Banner" parent="HBoxContainer/menu" instance=ExtResource("1_viy8g")]
 position = Vector2(132, 193)
 
+[node name="Control" type="Control" parent="HBoxContainer/menu"]
+anchors_preset = 0
+offset_left = 59.0
+offset_top = 88.0
+offset_right = 204.0
+offset_bottom = 263.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="HBoxContainer/menu/Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HBoxContainer/menu/Control/HBoxContainer"]
+layout_mode = 2
+
+[node name="TextureButton" type="TextureButton" parent="HBoxContainer/menu/Control/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_nsi3t")
+
 [node name="options" type="Control" parent="HBoxContainer"]
 layout_mode = 2
 size_flags_horizontal = 3
@@ -47,9 +58,18 @@ size_flags_horizontal = 3
 [node name="Banner" parent="HBoxContainer/options" instance=ExtResource("1_viy8g")]
 position = Vector2(216, 193)
 
-[node name="105" type="TextureRect" parent="."]
-modulate = Color(1.05, 1.05, 1.05, 1)
-self_modulate = Color(0.8, 0.8, 0.8, 1)
+[node name="Control" type="Control" parent="HBoxContainer/options"]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -205.0
+offset_top = 64.0
+offset_right = -60.0
+offset_bottom = 263.0
+grow_horizontal = 0
+
+[node name="Title" parent="." instance=ExtResource("3_6egk8")]
 layout_mode = 1
 anchors_preset = 5
 anchor_left = 0.5
@@ -59,8 +79,3 @@ offset_top = 92.0
 offset_right = 75.5
 offset_bottom = 127.0
 grow_horizontal = 2
-texture = ExtResource("1_hcvus")
-expand_mode = 1
-
-[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
-environment = SubResource("Environment_6pos3")
