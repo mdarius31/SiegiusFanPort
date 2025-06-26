@@ -13,17 +13,23 @@ config_version=5
 config/name="Siegius"
 run/main_scene="res://scenes/main.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="res://siegius assets/images/140.jpg"
 
 [display]
 
 window/size/viewport_width=700
 window/size/viewport_height=400
+window/size/mode=2
 window/stretch/mode="canvas_items"
 
 [filesystem]
 
 import/blender/enabled=false
+
+[gui]
+
+theme/custom="res://siegiusTheme.tres"
+theme/custom_font="res://siegius assets/fonts/114_Lithos Pro Regular.woff"
 
 [importer_defaults]
 
@@ -52,4 +58,5 @@ texture={
 
 [rendering]
 
-viewport/hdr_2d=true
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
