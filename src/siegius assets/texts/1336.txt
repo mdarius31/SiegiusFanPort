@@ -1,3 +1,0 @@
-WARNING: You may only chose 1 path.
---- RECORDSEPARATOR ---
-Chosing a path will lock the other path.

@@ -8,15 +8,15 @@
       <feComposite in="SourceGraphic" in2="filterResult1" operator="over" result="filterResult2"/>
     </filter>
     <use ffdec:characterId="1100" filter="url(#filter16)" height="19.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 231.0, 315.65)" width="245.0" xlink:href="#text0"/>
-    <use ffdec:characterId="921" height="22.0" id="initialClick" transform="matrix(11.5432, 0.0, 0.0, 1.4, 227.25, 311.25)" width="22.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="921" height="22.0" id="initialClick" transform="matrix(11.5432, 0.0, 0.0, 1.4, 227.25, 311.25)" width="22.0" xlink:href="#sprite1"/>
     <filter id="filter17">
       <feColorMatrix in="SourceGraphic" result="filterResult3" type="matrix" values="0 0 0 0 0.99607843,0 0 0 0 0.79607844,0 0 0 0 0.0,0 0 0 1 0"/>
       <feConvolveMatrix divisor="100.0" in="filterResult3" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="10 10" result="filterResult4"/>
       <feComposite in="SourceGraphic" in2="filterResult4" operator="over" result="filterResult5"/>
     </filter>
-    <use ffdec:characterId="106" filter="url(#filter17)" height="107.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 121.85, 22.7)" width="454.1" xlink:href="#sprite1"/>
+    <use ffdec:characterId="106" filter="url(#filter17)" height="107.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 121.85, 22.7)" width="454.1" xlink:href="#sprite2"/>
     <use ffdec:characterId="921" height="22.0" id="mfContainer" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.0" xlink:href="#sprite0"/>
-    <use ffdec:characterId="1097" ffdec:characterName="Army_fla.Menu_DeleteConfirm_204" height="182.3" id="confirmDelMC" transform="matrix(1.0, 0.0, 0.0, 1.0, 173.45, 90.8)" width="381.9" xlink:href="#sprite2"/>
+    <use ffdec:characterId="1097" ffdec:characterName="Army_fla.Menu_DeleteConfirm_204" height="182.3" id="confirmDelMC" transform="matrix(1.0, 0.0, 0.0, 1.0, 173.45, 90.8)" width="381.9" xlink:href="#sprite3"/>
     <use ffdec:characterId="1098" height="401.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="701.0" xlink:href="#shape2"/>
   </g>
   <defs>
@@ -82,7 +82,10 @@
     <g id="font_QTypeSquare-Medium_22pt_st_a0">
       <path d="M512.0 -93.1 L512.0 -372.35 232.75 -372.35 232.75 -93.1 512.0 -93.1 M139.65 -418.9 L139.65 -465.45 186.2 -465.45 186.2 -512.0 651.65 -512.0 651.65 46.55 186.2 46.55 186.2 0.0 139.65 0.0 139.65 -46.55 93.1 -46.55 93.1 -418.9 139.65 -418.9" fill-rule="evenodd" stroke="none"/>
     </g>
-    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.7)">
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="145" height="22.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.0" xlink:href="#shape0"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.7)">
       <use ffdec:characterId="105" height="107.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.7)" width="454.1" xlink:href="#shape1"/>
     </g>
     <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.7)">

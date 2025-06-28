@@ -1,3 +1,0 @@
-Are you sure you want to delete?
---- RECORDSEPARATOR ---
-Warning: This is Perminent!

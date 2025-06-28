@@ -24,8 +24,8 @@
     <use ffdec:characterId="1260" ffdec:characterName="Army_fla.MapPoint_218" height="32.3" id="mp4" transform="matrix(1.0, 0.0, 0.0, 1.0, 95.9, -57.2)" width="48.4" xlink:href="#sprite0"/>
     <use ffdec:characterId="1260" ffdec:characterName="Army_fla.MapPoint_218" height="32.3" id="mp3" transform="matrix(1.0, 0.0, 0.0, 1.0, 205.35, -4.55)" width="48.4" xlink:href="#sprite0"/>
     <use ffdec:characterId="1260" ffdec:characterName="Army_fla.MapPoint_218" height="32.3" id="mp2" transform="matrix(1.0, 0.0, 0.0, 1.0, 229.2, 70.7)" width="48.4" xlink:href="#sprite0"/>
-    <use ffdec:characterId="1260" ffdec:characterName="Army_fla.MapPoint_218" height="32.3" id="mp1" transform="matrix(1.0, 0.0, 0.0, 1.0, 194.7, 139.15)" width="48.4" xlink:href="#sprite0"/>
-    <use ffdec:characterId="1263" height="38.3" id="char" transform="matrix(1.0, 0.0, 0.0, 1.0, -190.4, -64.8)" width="31.85" xlink:href="#sprite1"/>
+    <use ffdec:characterId="1260" ffdec:characterName="Army_fla.MapPoint_218" height="32.3" id="mp1" transform="matrix(1.0, 0.0, 0.0, 1.0, 194.7, 139.15)" width="48.4" xlink:href="#sprite1"/>
+    <use ffdec:characterId="1263" height="38.3" id="char" transform="matrix(1.0, 0.0, 0.0, 1.0, -190.4, -64.8)" width="31.85" xlink:href="#sprite2"/>
   </g>
   <defs>
     <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 300.75, 232.0)">
@@ -355,7 +355,11 @@
     <g id="font_Lithos_Pro_Regular_50">
       <path d="M370.0 -568.5 L370.0 -568.5 357.5 -496.0 Q448.0 -488.0 506.0 -468.5 563.5 -449.0 595.0 -421.0 626.5 -393.0 639.0 -359.0 651.0 -325.5 650.5 -289.0 650.0 -221.0 592.5 -155.5 535.5 -90.5 429.0 -41.5 322.5 7.0 174.5 25.5 L145.5 -144.5 Q183.0 -147.0 226.0 -154.5 268.5 -162.0 307.0 -175.5 345.5 -189.5 370.0 -210.5 394.5 -231.0 395.5 -260.5 395.5 -303.0 339.0 -323.5 282.5 -343.5 170.5 -346.5 L217.5 -727.0 Q247.0 -727.5 291.5 -728.5 336.0 -730.0 387.0 -731.5 438.0 -733.0 487.5 -735.0 537.5 -737.0 578.0 -738.5 618.5 -740.0 642.5 -741.5 L641.5 -556.5 370.0 -568.5" fill-rule="evenodd" stroke="none"/>
     </g>
-    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 15.85, 37.55)">
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 24.2, 19.8)">
+      <use ffdec:characterId="1255" height="25.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -24.2, -12.5)" width="48.4" xlink:href="#shape3"/>
+      <use ffdec:characterId="1256" height="19.45" id="txt_num" transform="matrix(1.0, 0.0, 0.0, 1.0, -14.15, -9.25)" width="27.3" xlink:href="#text11"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 15.85, 37.55)">
       <use ffdec:characterId="8" height="35.1" transform="matrix(0.237, 0.0, 0.0, 0.237, -3.9282, -7.9892)" width="56.6" xlink:href="#shape4"/>
       <use ffdec:characterId="9" height="66.5" transform="matrix(0.237, 0.0, 0.0, 0.237, -5.8533, -18.7695)" width="80.5" xlink:href="#shape5"/>
       <use ffdec:characterId="10" height="93.1" transform="matrix(0.2355, 0.0259, -0.0259, 0.2355, -6.7312, -36.8698)" width="82.3" xlink:href="#shape6"/>

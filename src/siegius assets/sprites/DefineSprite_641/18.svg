@@ -2,13 +2,17 @@
 <svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="6.0px" width="33.0px" xmlns="http://www.w3.org/2000/svg">
   <g transform="matrix(1.0, 0.0, 0.0, 1.0, 1.5, 1.5)">
     <use ffdec:characterId="639" height="3.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="30.0" xlink:href="#morphshape0"/>
-    <use ffdec:characterId="639" height="3.0" transform="matrix(0.8995, 0.0, 0.0, 1.0, 0.0, 0.0)" width="30.0" xlink:href="#morphshape0"/>
+    <use ffdec:characterId="639" height="3.0" transform="matrix(0.8995, 0.0, 0.0, 1.0, 0.0, 0.0)" width="30.0" xlink:href="#morphshape1"/>
     <use ffdec:characterId="638" height="6.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.5, -1.5)" width="33.0" xlink:href="#shape0"/>
   </g>
   <defs>
     <g id="morphshape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
       <path d="M0.0 0.0 L0.0 3.0 30.0 3.0 30.0 0.0 0.0 0.0" fill="#246500" fill-opacity="0.69803923" fill-rule="evenodd" stroke="none"/>
-      <path d="M0.0 0.0 L30.0 0.0 30.0 3.0 0.0 3.0 0.0 0.0 Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="0.0"/>
+      <path d="M0.0 0.0 L30.0 0.0 30.0 3.0 0.0 3.0 0.0 0.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0"/>
+    </g>
+    <g id="morphshape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.0 0.0 L0.0 3.0 30.0 3.0 30.0 0.0 0.0 0.0" fill="#5cff00" fill-opacity="0.69803923" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 0.0 L30.0 0.0 30.0 3.0 0.0 3.0 0.0 0.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.0" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0514510481787562"/>
     </g>
     <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.5, 1.5)">
       <path d="M29.9 0.1 L27.0 0.1 0.5 0.1 0.3 0.1 0.3 0.5 0.3 2.1 0.4 2.85 0.35 2.95 0.55 2.95 Q7.9 2.85 29.8 2.9 L29.9 2.9 29.9 2.85 29.95 2.35 29.95 0.6 29.9 0.15 29.9 0.1 M31.5 -1.5 L31.5 4.5 -1.5 4.5 -1.5 -1.5 31.5 -1.5" fill="#000000" fill-rule="evenodd" stroke="none"/>

@@ -1,5 +1,0 @@
-Mouse 
---- RECORDSEPARATOR ---
-Screen Edge
---- RECORDSEPARATOR ---
-scrolling

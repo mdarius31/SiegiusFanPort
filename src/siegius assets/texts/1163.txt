@@ -1,1 +1,0 @@
-Try not to create Miners in paths with oncoming enemies. Miners will die quickly, so make sure you have units defending their path.

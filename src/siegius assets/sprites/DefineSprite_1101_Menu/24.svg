@@ -2,15 +2,15 @@
 <svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="450.05px" width="910.2px" xmlns="http://www.w3.org/2000/svg">
   <g transform="matrix(1.0, 0.0, 0.0, 1.0, 119.2, 1.0)">
     <use ffdec:characterId="921" height="22.0" id="container" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.0" xlink:href="#sprite0"/>
-    <use ffdec:characterId="921" height="22.0" id="initialClick" transform="matrix(11.5432, 0.0, 0.0, 1.4, 227.25, 311.25)" width="22.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="921" height="22.0" id="initialClick" transform="matrix(11.5432, 0.0, 0.0, 1.4, 227.25, 311.25)" width="22.0" xlink:href="#sprite1"/>
     <filter id="filter0">
       <feColorMatrix in="SourceGraphic" result="filterResult0" type="matrix" values="0 0 0 0 0.99607843,0 0 0 0 0.79607844,0 0 0 0 0.0,0 0 0 1 0"/>
       <feConvolveMatrix divisor="100.0" in="filterResult0" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="10 10" result="filterResult1"/>
       <feComposite in="SourceGraphic" in2="filterResult1" operator="over" result="filterResult2"/>
     </filter>
-    <use ffdec:characterId="106" filter="url(#filter0)" height="107.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 121.85, 22.7)" width="454.1" xlink:href="#sprite1"/>
+    <use ffdec:characterId="106" filter="url(#filter0)" height="107.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 121.85, 22.7)" width="454.1" xlink:href="#sprite2"/>
     <use ffdec:characterId="921" height="22.0" id="mfContainer" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.0" xlink:href="#sprite0"/>
-    <use ffdec:characterId="1097" ffdec:characterName="Army_fla.Menu_DeleteConfirm_204" height="182.3" id="confirmDelMC" transform="matrix(1.0, 0.0, 0.0, 1.0, 173.45, 90.8)" width="381.9" xlink:href="#sprite2"/>
+    <use ffdec:characterId="1097" ffdec:characterName="Army_fla.Menu_DeleteConfirm_204" height="182.3" id="confirmDelMC" transform="matrix(1.0, 0.0, 0.0, 1.0, 173.45, 90.8)" width="381.9" xlink:href="#sprite3"/>
     <use ffdec:characterId="1098" height="401.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, -0.5)" width="701.0" xlink:href="#shape2"/>
   </g>
   <defs>
@@ -20,7 +20,10 @@
     <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
       <path d="M22.0 0.0 L22.0 22.0 0.0 22.0 0.0 0.0 22.0 0.0" fill="#00ff00" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
     </g>
-    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.7)">
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="145" height="22.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.0" xlink:href="#shape0"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.7)">
       <use ffdec:characterId="105" height="107.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 5.7)" width="454.1" xlink:href="#shape1"/>
     </g>
     <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -5.7)">
