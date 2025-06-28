@@ -1,0 +1,11 @@
+[
+xmin 27
+ymin 118
+xmax 420
+ymax 416
+][
+font 19
+height 360
+color #000000
+y 400
+]F[space 24]

@@ -1,0 +1,12 @@
+[
+xmin 1100
+ymin 4
+xmax 2646
+ymax 219
+translatex 1100
+][
+font 114
+height 200
+color #b68030
+y 200
+]Attack Type:

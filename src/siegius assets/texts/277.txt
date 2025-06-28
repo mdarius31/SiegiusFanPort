@@ -1,0 +1,13 @@
+[
+xmin -1068
+ymin 26
+xmax 1268
+ymax 300
+translatex -1731
+][
+font 114
+height 280
+color #f7ce72
+x 660
+y 280
+]MaestroRage

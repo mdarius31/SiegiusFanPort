@@ -1,0 +1,12 @@
+[
+xmin 12
+ymin 32
+xmax 653
+ymax 320
+][
+font 114
+height 300
+color #cd9e3f
+y 300
+spacingpair "O" "R" 1
+]OR

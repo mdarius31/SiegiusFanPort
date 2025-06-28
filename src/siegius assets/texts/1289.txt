@@ -1,0 +1,14 @@
+[
+xmin 1107
+ymin 7
+xmax 2127
+ymax 219
+translatex 1100
+][
+font 114
+height 200
+color #b68030
+y 200
+]Special:[
+color #cd9e3f
+] 

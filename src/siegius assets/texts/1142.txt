@@ -1,0 +1,12 @@
+[
+xmin 1
+ymin 168
+xmax 5932
+ymax 827
+][
+font 114
+height 800
+color #cd9e3f
+y 780
+spacingpair "V" "I" 1
+]VICTORIOUS

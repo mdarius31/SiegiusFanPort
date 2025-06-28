@@ -1,0 +1,14 @@
+[
+xmin 1190
+ymin 109
+xmax 6553
+ymax 706
+][
+font 114
+height 680
+letterspacing 20
+color #ffcc33
+x 1160
+y 660
+spacing "A" 1
+]GAME SAVED

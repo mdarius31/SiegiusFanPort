@@ -1,0 +1,27 @@
+[
+xmin 2
+ymin 12
+xmax 1645
+ymax 504
+][
+font 1241
+height 200
+color #6f774d
+y 180
+spacing "r" 30
+spacing "n" 62
+spacingpair "t" "y" 29
+spacingpair "y" "r" 11
+spacingpair "h" "e" 74
+spacingpair "e" "n" 7
+spacingpair "i" "a" -32
+spacingpair "a" "n" 22
+spacingpair " " "" -2
+]tyrrhenian [
+x 0
+y 460
+spacing " " -2
+spacingpair "s" "e" -10
+spacingpair "e" "a" 7
+spacingpair "a" "" 22
+]          sea

@@ -1,0 +1,14 @@
+[
+xmin 1120
+ymin 11
+xmax 3483
+ymax 219
+translatex 1100
+][
+font 114
+height 200
+color #b68030
+y 200
+]Damage Resistance:[
+color #cd9e3f
+] 

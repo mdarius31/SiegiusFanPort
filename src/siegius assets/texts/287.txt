@@ -1,0 +1,13 @@
+[
+xmin -939
+ymin 40
+xmax 2154
+ymax 358
+translatex -952
+][
+font 114
+height 340
+color #f7cf73
+y 320
+spacingpair "e" "c" -1
+]Special Thanks

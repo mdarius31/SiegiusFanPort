@@ -1,0 +1,12 @@
+[
+xmin -69
+ymin 13
+xmax 3171
+ymax 270
+translatex -104
+][
+font 759
+height 240
+color #f5e1b4
+y 220
+]Rendering, please wait...

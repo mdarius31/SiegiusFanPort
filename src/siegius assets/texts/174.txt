@@ -1,0 +1,12 @@
+[
+xmin -1080
+ymin 36
+xmax 1054
+ymax 341
+translatex -1091
+][
+font 114
+height 320
+color #dab561
+y 300
+]Select Save

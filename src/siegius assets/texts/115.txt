@@ -1,0 +1,29 @@
+[
+xmin -2718
+ymin 36
+xmax 5765
+ymax 2149
+translatex -2731
+][
+font 114
+height 320
+color #cc9d3c
+y 300
+spacingpair "o" "r" -1
+spacingpair "i" "g" -1
+]Sorry, right now Siegius is only available  at[
+x 2760
+y 760
+]Maxgames.com[
+x 220
+y 1660
+spacingpair "o" "r" -1
+]Siegius will be available for hosting soon,[
+x 1220
+y 2120
+]check [
+color #ffcc00
+]maxgames.com[
+color #cc9d3c
+spacingpair "o" "r" -1
+] more info

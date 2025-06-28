@@ -1,0 +1,19 @@
+[
+xmin 1108
+ymin 1
+xmax 2075
+ymax 759
+translatex 1100
+][
+font 759
+height 200
+color #ffcc00
+y 180
+]Melee:[
+x 0
+y 460
+]Ranged:[
+x 0
+y 740
+spacingpair "i" "c" -1
+]Magic:

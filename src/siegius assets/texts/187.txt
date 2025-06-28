@@ -1,0 +1,13 @@
+[
+xmin -1049
+ymin 57
+xmax 1434
+ymax 427
+translatex -1091
+][
+font 114
+height 400
+color #f7cf73
+y 380
+spacing "a" 1
+]Flag Wave

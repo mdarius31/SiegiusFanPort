@@ -1,0 +1,15 @@
+[
+xmin -74
+ymin 7
+xmax 1351
+ymax 219
+translatex -1159
+][
+font 114
+height 200
+color #dbb663
+x 1080
+y 200
+spacingpair "l" "y" -1
+spacingpair "a" "t" 1
+]Silly Battle

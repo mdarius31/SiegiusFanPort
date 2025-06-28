@@ -1,0 +1,11 @@
+[
+xmin 10
+ymin 30
+xmax 2606
+ymax 319
+][
+font 114
+height 300
+color #cd9e3f
+y 300
+]Select Mission

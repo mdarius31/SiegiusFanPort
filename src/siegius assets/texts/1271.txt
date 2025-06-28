@@ -1,0 +1,13 @@
+[
+xmin 258
+ymin 122
+xmax 2385
+ymax 702
+][
+font 114
+height 680
+letterspacing 20
+color #c19c46
+x 240
+y 660
+]Save

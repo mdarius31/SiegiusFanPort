@@ -1,0 +1,11 @@
+[
+xmin 1
+ymin 126
+xmax 486
+ymax 438
+][
+font 19
+height 380
+color #000000
+y 420
+]A[space 68]

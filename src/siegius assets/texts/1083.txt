@@ -1,0 +1,12 @@
+[
+xmin 59
+ymin 61
+xmax 2328
+ymax 451
+][
+font 759
+height 460
+color #ffffff
+y 420
+spacingpair "p" "r" 1
+]presents

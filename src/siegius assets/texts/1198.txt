@@ -1,0 +1,14 @@
+[
+xmin 27
+ymin 27
+xmax 1757
+ymax 275
+][
+font 114
+height 260
+color #cd9e3f
+y 260
+spacingpair "D" "i" -1
+spacingpair "y" ":" 1
+spacingpair ":" "" 1
+]Difficulty:

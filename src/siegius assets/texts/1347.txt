@@ -1,0 +1,14 @@
+[
+xmin 1128
+ymin 0
+xmax 2407
+ymax 209
+translatex 1100
+][
+font 759
+height 200
+color #ffcc00
+y 180
+spacingpair "l" "o" -1
+spacingpair "d" "e" -1
+]3. Explodes

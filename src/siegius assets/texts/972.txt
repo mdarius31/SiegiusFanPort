@@ -1,0 +1,14 @@
+[
+xmin 405
+ymin 33
+xmax 924
+ymax 329
+][
+font 114
+height 320
+color #ffcc66
+x 400
+y 300
+spacingpair "+" "1" -40
+spacingpair "1" "" -41
+]+1

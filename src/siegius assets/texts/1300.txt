@@ -1,0 +1,12 @@
+[
+xmin 1107
+ymin 8
+xmax 2494
+ymax 222
+translatex 1100
+][
+font 114
+height 200
+color #b68030
+y 200
+]Cooldown:

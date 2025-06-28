@@ -1,0 +1,13 @@
+[
+xmin 77
+ymin 35
+xmax 924
+ymax 339
+][
+font 114
+height 320
+letterspacing -41
+color #ffcc66
+x 40
+y 300
+]75%

@@ -1,0 +1,15 @@
+[
+xmin 14
+ymin 29
+xmax 1859
+ymax 567
+][
+font 759
+height 240
+color #ceb06c
+y 220
+]Gold Earned:[
+x 0
+y 540
+spacingpair "S" "p" -1
+]Gold Spent:

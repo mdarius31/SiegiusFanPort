@@ -1,0 +1,15 @@
+[
+xmin -13
+ymin 14
+xmax 717
+ymax 273
+][
+font 1241
+height 240
+color #7f6239
+y 220
+spacingpair "a" "l" 27
+spacingpair "l" "p" -3
+spacingpair "p" "s" 9
+spacingpair "s" "" -12
+]alps

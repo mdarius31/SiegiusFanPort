@@ -1,0 +1,45 @@
+[
+xmin 0
+ymin 18
+xmax 5682
+ymax 2128
+][
+font 759
+height 280
+color #cd9e3f
+y 260
+spacing "r" -1
+spacingpair "i" "l" 1
+spacingpair "b" "a" -1
+spacingpair "a" "t" 1
+spacingpair "h" "e" -1
+]Fill up your army bar at the bottom [
+x 0
+y 620
+spacing "r" -1
+spacing "i" 1
+spacing "s" -1
+spacingpair "d" "r" -1
+spacingpair "d" "i" -1
+]by dragging soldiers and spells onto [
+x 0
+y 1000
+spacing "s" -1
+spacingpair "." "" 1
+]empty slots.[
+x 0
+y 1740
+spacing "s" -1
+spacingpair "Y" "o" 1
+spacingpair "m" "u" -1
+spacingpair "i" "p" 1
+spacingpair "h" "e" -1
+]You can use multiple of the same [
+x 0
+y 2100
+spacing "s" -1
+spacing "r" -1
+spacingpair "d" "i" -1
+spacingpair "i" "e" 1
+spacingpair "." "" 1
+]soldier or spell.

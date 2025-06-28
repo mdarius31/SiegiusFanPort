@@ -1,0 +1,15 @@
+[
+xmin -24
+ymin 76
+xmax 1981
+ymax 442
+][
+font 1241
+height 440
+color #7f551b
+y 400
+spacing "A" 49
+spacingpair "R" "A" 63
+spacingpair "B" "I" 37
+spacingpair "I" "A" -70
+]ARABIA

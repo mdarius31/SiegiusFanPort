@@ -1,0 +1,16 @@
+[
+xmin -1266
+ymin 7
+xmax 1133
+ymax 519
+translatex -1942
+][
+font 114
+height 200
+color #dbb663
+x 660
+y 200
+]Free Internet Games[
+x 1160
+y 500
+]To the Max

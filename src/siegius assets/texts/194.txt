@@ -1,0 +1,16 @@
+[
+xmin -844
+ymin 47
+xmax 2084
+ymax 359
+translatex -882
+][
+font 114
+height 340
+color #f7cf73
+y 320
+spacing "o" -1
+spacingpair "R" "o" -1
+spacingpair "e" "g" -1
+spacingpair "i" "o" -1
+]Roman Legion

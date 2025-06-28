@@ -1,0 +1,20 @@
+[
+xmin -40
+ymin -40
+xmax 4320
+ymax 1452
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 759
+height 260
+color #ffcd9e3f
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Lithos Pro Regular" size="13" color="#cd9e3f" letterSpacing="0.000000" kerning="1">The primary infantry unit</font></p><p align="left"><font face="Lithos Pro Regular" size="13" color="#cd9e3f" letterSpacing="0.000000" kerning="1">for the roman legion.</font></p><p align="left"></p><p align="left"></p>

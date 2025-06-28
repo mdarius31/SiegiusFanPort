@@ -1,0 +1,20 @@
+[
+xmin 538
+ymin 15
+xmax 2469
+ymax 796
+translatex 529
+][
+font 114
+height 240
+letterspacing 20
+color #cc9d3e
+x 400
+y 240
+]Mouse [
+x 0
+y 500
+]Screen Edge[
+x 160
+y 760
+]scrolling

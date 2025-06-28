@@ -1,0 +1,13 @@
+[
+xmin 2285
+ymin 1
+xmax 3645
+ymax 179
+translatex 2267
+][
+font 114
+height 160
+letterspacing 20
+color #cd9e3f
+y 160
+]Boaretheus

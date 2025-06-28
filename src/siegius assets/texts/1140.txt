@@ -1,0 +1,22 @@
+[
+xmin 388
+ymin 16
+xmax 4841
+ymax 879
+][
+font 114
+height 240
+letterspacing 20
+color #ffffff
+x 1200
+y 240
+]Screenshot mode[
+x 380
+y 540
+spacingpair "U" "s" 1
+spacingpair "W" "A" 1
+]Use WASD/Arrows to scroll[
+x 500
+y 840
+spacingpair "a" "n" 1
+]Click anywhere to return

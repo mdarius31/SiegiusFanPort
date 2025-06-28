@@ -1,0 +1,20 @@
+[
+xmin 1027
+ymin -40
+xmax 3608
+ymax 665
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 759
+height 200
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading -40
+]<p align="center"><font face="Lithos Pro Regular" size="10" color="#ffffff" letterSpacing="0.000000" kerning="1">Name</font></p><p align="center"><font face="Lithos Pro Regular" size="10" color="#ffffff" letterSpacing="0.000000" kerning="1">kjhkjh</font></p><p align="center"><font face="Lithos Pro Regular" size="10" color="#ffffff" letterSpacing="0.000000" kerning="1">kjhkjh</font></p>

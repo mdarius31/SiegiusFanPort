@@ -1,0 +1,12 @@
+[
+xmin 631
+ymin 30
+xmax 2664
+ymax 339
+][
+font 114
+height 320
+color #cd9e3f
+x 600
+y 300
+]UPGRADES

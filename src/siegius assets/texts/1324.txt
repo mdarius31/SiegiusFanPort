@@ -1,0 +1,12 @@
+[
+xmin 23
+ymin 13
+xmax 1002
+ymax 241
+][
+font 114
+height 220
+color #cd9e3f
+y 220
+spacingpair "v" "e" -1
+]Level 2

@@ -1,0 +1,20 @@
+[
+xmin -40
+ymin -40
+xmax 5090
+ymax 1199
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 903
+height 260
+color #ffffffff
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading -40
+]<p align="left"><font face="Lucida Handwriting" size="13" color="#ffffff" letterSpacing="0.000000" kerning="1">Ceasar, thank god you arrived</font></p><p align="left"><font face="Lucida Handwriting" size="13" color="#ffffff" letterSpacing="0.000000" kerning="1">They have us pinned down.</font></p><p align="left"><font face="Lucida Handwriting" size="13" color="#ffffff" letterSpacing="0.000000" kerning="1">kkkk</font></p>

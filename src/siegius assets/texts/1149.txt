@@ -1,0 +1,20 @@
+[
+xmin 1293
+ymin -40
+xmax 2727
+ymax 690
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 759
+height 260
+color #ffc19c46
+align right
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="right"><font face="Lithos Pro Regular" size="13" color="#c19c46" letterSpacing="0.000000" kerning="1">50</font></p><p align="right"><font face="Lithos Pro Regular" size="13" color="#c19c46" letterSpacing="0.000000" kerning="1">x 2</font></p>

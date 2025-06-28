@@ -1,0 +1,12 @@
+[
+xmin 1612
+ymin 22
+xmax 2991
+ymax 278
+][
+font 114
+height 260
+color #cd9e3f
+x 1600
+y 260
+]Soldiers

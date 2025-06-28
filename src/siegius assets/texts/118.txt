@@ -1,0 +1,12 @@
+[
+xmin 54
+ymin 45
+xmax 2985
+ymax 341
+translatex 49
+][
+font 114
+height 320
+color #ffcc00
+y 300
+]maxgames.com

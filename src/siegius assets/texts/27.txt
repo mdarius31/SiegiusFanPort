@@ -1,0 +1,11 @@
+[
+xmin 17
+ymin 121
+xmax 507
+ymax 443
+][
+font 19
+height 380
+color #000000
+y 420
+]O[space 89]

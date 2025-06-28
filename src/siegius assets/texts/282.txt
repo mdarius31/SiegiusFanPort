@@ -1,0 +1,13 @@
+[
+xmin -518
+ymin 32
+xmax 1041
+ymax 324
+translatex -1308
+][
+font 114
+height 280
+color #f7ce72
+x 800
+y 280
+]Juice-Tin

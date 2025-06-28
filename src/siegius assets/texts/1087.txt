@@ -1,0 +1,14 @@
+[
+xmin -1345
+ymin 90
+xmax 1443
+ymax 563
+translatex -1345
+][
+font 114
+height 500
+color #feb74e
+y 480
+spacingpair "c" "e" 1
+spacingpair "n" "" 1
+]Juice-Tin

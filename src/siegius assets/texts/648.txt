@@ -1,0 +1,21 @@
+[
+xmin 2330
+ymin -3
+xmax 3585
+ymax 180
+translatex 2327
+][
+font 114
+height 160
+color #cd9e3f
+y 160
+spacing "e" 20
+spacingpair "M" "i" 20
+spacingpair "i" "k" 20
+spacingpair "k" "e" 20
+spacingpair " " "S" 20
+spacingpair "S" "l" 20
+spacingpair "l" "e" 20
+spacingpair "v" "a" 19
+spacingpair "a" "" 20
+]Mike Sleva

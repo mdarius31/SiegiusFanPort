@@ -1,0 +1,11 @@
+[
+xmin 12
+ymin 6
+xmax 263
+ymax 213
+][
+font 114
+height 200
+color #ffffff
+y 200
+]4

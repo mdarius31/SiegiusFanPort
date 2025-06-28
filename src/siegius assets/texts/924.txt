@@ -1,0 +1,17 @@
+[
+xmin 1154
+ymin 1
+xmax 2711
+ymax 415
+translatex 1067
+][
+font 759
+height 200
+color #ffffff
+x 60
+y 180
+]Fast Forward[
+x 260
+y 380
+spacingpair "b" "a" -1
+](Spacebar)

@@ -1,0 +1,13 @@
+[
+xmin -1087
+ymin 54
+xmax 442
+ymax 420
+translatex -1091
+][
+font 114
+height 400
+color #f7cf73
+y 380
+spacingpair "i" "c" -1
+]Music

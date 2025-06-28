@@ -1,0 +1,14 @@
+[
+xmin 2380
+ymin -6
+xmax 3259
+ymax 179
+translatex 2277
+][
+font 114
+height 160
+letterspacing 20
+color #cd9e3f
+x 100
+y 160
+]CEASAR

@@ -1,0 +1,14 @@
+[
+xmin 5
+ymin 29
+xmax 2060
+ymax 568
+][
+font 759
+height 240
+color #ceb06c
+y 220
+]Enemies Killed:[
+x 0
+y 540
+]Allies Lost:

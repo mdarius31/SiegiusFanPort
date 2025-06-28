@@ -1,0 +1,15 @@
+[
+xmin 15
+ymin 63
+xmax 865
+ymax 331
+][
+font 1244
+height 320
+color #685539
+y 300
+spacingpair "G" "A" 45
+spacingpair "A" "U" 13
+spacingpair "U" "L" 53
+spacingpair "L" "" -7
+]GAUL

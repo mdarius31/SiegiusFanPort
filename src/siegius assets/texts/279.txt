@@ -1,0 +1,17 @@
+[
+xmin -1151
+ymin 8
+xmax 1603
+ymax 437
+translatex -1617
+][
+font 114
+height 200
+color #dbb663
+x 440
+y 200
+]Rage of the Champions[
+x 560
+y 420
+spacingpair "u" "a" -1
+]Deranged Sanctuary

@@ -1,0 +1,14 @@
+[
+xmin 1131
+ymin 0
+xmax 6604
+ymax 208
+translatex 1100
+][
+font 759
+height 200
+color #ffcc00
+y 180
+spacingpair "i" "c" -1
+spacingpair "l" "o" -1
+]1. Drops a Sheet of ice that brings enemies closer

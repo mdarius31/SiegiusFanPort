@@ -1,0 +1,13 @@
+[
+xmin 10
+ymin 27
+xmax 1610
+ymax 300
+][
+font 114
+height 280
+color #161214
+y 280
+spacingpair "O" "L" 1
+spacingpair "I" "E" -1
+]SOLDIERS

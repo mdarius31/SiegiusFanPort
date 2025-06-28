@@ -1,0 +1,11 @@
+[
+xmin 10
+ymin 27
+xmax 1148
+ymax 296
+][
+font 114
+height 280
+color #453a27
+y 280
+]SPELLS

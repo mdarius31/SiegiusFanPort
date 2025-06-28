@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 5159
+ymax 688
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 114
+height 500
+color #ffd7a864
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Lithos Pro Regular" size="25" color="#d7a864" letterSpacing="0.000000" kerning="1"><b>CEASAR</b></font></p>

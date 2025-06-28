@@ -1,0 +1,18 @@
+[
+xmin 1114
+ymin 0
+xmax 3781
+ymax 758
+translatex 1100
+][
+font 759
+height 200
+color #ffcc00
+y 180
+]2. Creates Smoke Screen[
+x 0
+y 460
+]neutralizing ranged [
+x 0
+y 740
+]damage to allies

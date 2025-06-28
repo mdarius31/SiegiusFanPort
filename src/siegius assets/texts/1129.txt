@@ -1,0 +1,13 @@
+[
+xmin 424
+ymin 12
+xmax 2575
+ymax 261
+translatex 423
+][
+font 114
+height 240
+letterspacing 20
+color #cc9d3e
+y 240
+]Awesomeness

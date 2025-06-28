@@ -1,0 +1,29 @@
+[
+xmin -1315
+ymin 7
+xmax 1585
+ymax 1309
+translatex -1606
+][
+font 114
+height 200
+color #dbb663
+x 540
+y 200
+]-Glorious morning-[
+x 280
+y 420
+spacingpair "a" "t" 1
+]-The Battle- (3 versions)[
+x 1140
+y 620
+]-Chaotic-[
+x 1040
+y 840
+]-Highland-[
+x 980
+y 1060
+]-Worldmap-[
+x 700
+y 1280
+]-Monsterbreaks-

@@ -1,0 +1,25 @@
+[
+xmin -560
+ymin 80
+xmax 4340
+ymax 460
+translatex -600
+][
+font 1099
+height 440
+color #ffffff
+y 420
+spacing " " 46
+spacing "e" 56
+spacing "r" -24
+spacing "t" -44
+spacingpair "C" "l" 116
+spacingpair "l" "i" -84
+spacingpair "i" "c" -124
+spacingpair "c" "k" 56
+spacingpair "k" " " 16
+spacingpair "H" "e" 116
+spacingpair "o" " " 56
+spacingpair "S" "t" 116
+spacingpair "a" "r" 56
+]Click Here to Start

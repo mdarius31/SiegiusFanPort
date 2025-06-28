@@ -1,0 +1,16 @@
+[
+xmin -1997
+ymin 78
+xmax 1307
+ymax 522
+translatex -2003
+][
+font 114
+height 500
+color #feb74e
+y 480
+spacingpair "k" "e" 1
+spacingpair "S" "l" 1
+spacingpair "v" "a" -1
+spacingpair "a" "" 1
+]Mike Sleva

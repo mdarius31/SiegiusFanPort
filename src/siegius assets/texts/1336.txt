@@ -1,0 +1,19 @@
+[
+xmin 15
+ymin 3
+xmax 5580
+ymax 570
+][
+font 759
+height 240
+color #a67f32
+x 180
+y 220
+spacingpair "N" "G" 1
+spacingpair "Y" "o" -1
+spacingpair "h" "o" 1
+]WARNING: You may only chose 1 path.[
+x 0
+y 540
+spacingpair "h" "o" 1
+]Chosing a path will lock the other path.

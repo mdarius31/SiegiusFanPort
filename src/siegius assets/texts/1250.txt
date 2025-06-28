@@ -1,0 +1,27 @@
+[
+xmin 12
+ymin 14
+xmax 1397
+ymax 598
+][
+font 1241
+height 240
+color #7f6239
+y 220
+spacing "a" 27
+spacingpair "b" "a" 21
+spacingpair "l" "e" -3
+spacingpair "e" "a" 9
+spacingpair "r" "i" 36
+spacingpair "i" "c" -42
+spacingpair "c" "" 50
+]balearic[
+x 0
+y 540
+spacing "s" -12
+spacingpair "i" "s" -38
+spacingpair "l" "a" 4
+spacingpair "a" "n" 27
+spacingpair "n" "d" 74
+spacingpair "d" "s" 82
+]islands

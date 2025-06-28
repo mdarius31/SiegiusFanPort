@@ -1,0 +1,13 @@
+[
+xmin 1060
+ymin 30
+xmax 2223
+ymax 339
+][
+font 114
+height 320
+color #cd9e3f
+x 1040
+y 300
+spacingpair "A" "T" -1
+]STATS

@@ -1,0 +1,12 @@
+[
+xmin -44
+ymin 83
+xmax 3183
+ymax 537
+translatex -45
+][
+font 114
+height 520
+color #feb74e
+y 500
+]a Game by

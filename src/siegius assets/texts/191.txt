@@ -1,0 +1,12 @@
+[
+xmin -1091
+ymin 6
+xmax -231
+ymax 220
+translatex -1091
+][
+font 114
+height 200
+color #f7cf73
+y 200
+]v1.4.4

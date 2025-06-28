@@ -1,0 +1,12 @@
+[
+xmin 805
+ymin 91
+xmax 3143
+ymax 618
+translatex 742
+][
+font 114
+height 600
+color #cd9e3f
+y 580
+]PAUSE

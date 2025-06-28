@@ -1,0 +1,16 @@
+[
+xmin -1
+ymin 32
+xmax 1772
+ymax 609
+][
+font 759
+height 260
+color #ceb06c
+y 240
+spacingpair "p" " " 1
+]Exp Earned:[
+x 0
+y 580
+spacingpair "p" "" 1
+]Total Exp

@@ -1,0 +1,15 @@
+[
+xmin 879
+ymin 17
+xmax 3725
+ymax 279
+][
+font 114
+height 260
+color #cd9e3f
+x 880
+y 260
+spacingpair "a" "t" 1
+spacingpair "o" "u" -1
+spacingpair "m" "y" -1
+]Create your Army

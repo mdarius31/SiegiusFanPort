@@ -1,0 +1,18 @@
+[
+xmin 413
+ymin -40
+xmax 2467
+ymax 452
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 114
+height 320
+color #fff7cf73
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Lithos Pro Regular" size="16" color="#f7cf73" letterSpacing="0.000000" kerning="1"><b>GALLERY</b></font></p>

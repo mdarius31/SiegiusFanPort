@@ -1,0 +1,12 @@
+[
+xmin 172
+ymin 16
+xmax 3392
+ymax 261
+][
+font 114
+height 240
+color #7e786d
+x 140
+y 240
+]Locked in This Version

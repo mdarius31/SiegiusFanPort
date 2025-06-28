@@ -1,0 +1,22 @@
+[
+xmin 14
+ymin 53
+xmax 3175
+ymax 1068
+][
+font 114
+height 360
+color #bbb2a1
+x 800
+y 340
+]Locked[
+font 114
+height 220
+x 460
+y 720
+spacingpair "C" "o" 1
+]Complete stage 5[
+x 0
+y 1040
+spacingpair "R" "o" -1
+]of the Roman Campaign

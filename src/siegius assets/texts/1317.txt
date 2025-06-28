@@ -1,0 +1,14 @@
+[
+xmin 420
+ymin 37
+xmax 5387
+ymax 338
+][
+font 114
+height 320
+color #cd9e3f
+x 420
+y 300
+spacingpair "Y" "o" -1
+spacingpair "m" "y" 1
+]Your army bar is not full

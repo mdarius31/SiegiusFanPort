@@ -1,0 +1,16 @@
+[
+xmin 1697
+ymin 0
+xmax 3255
+ymax 483
+translatex 1100
+][
+font 759
+height 200
+color #ffcc00
+x 580
+y 180
+]2. Set enemies[
+x 1280
+y 460
+]on fire

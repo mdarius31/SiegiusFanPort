@@ -1,0 +1,12 @@
+[
+xmin 16
+ymin 111
+xmax 3117
+ymax 618
+][
+font 114
+height 600
+color #cd9e3f
+y 580
+spacingpair "e" "" -1
+]You Are

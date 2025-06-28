@@ -1,0 +1,18 @@
+[
+xmin 834
+ymin 90
+xmax 5855
+ymax 1110
+][
+font 114
+height 460
+color #ceb06c
+x 1300
+y 440
+spacingpair "o" "u" -1
+]You have been [
+x 800
+y 1080
+spacing "d" 1
+spacingpair "i" "n" -1
+]defeated in battle

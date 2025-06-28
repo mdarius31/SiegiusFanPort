@@ -1,0 +1,12 @@
+[
+xmin 19
+ymin 22
+xmax 2100
+ymax 281
+][
+font 114
+height 260
+color #cd9e3f
+y 260
+spacingpair ":" "" 1
+]Upgrade Exp:

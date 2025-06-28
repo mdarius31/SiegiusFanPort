@@ -1,0 +1,18 @@
+[
+xmin 1209
+ymin -40
+xmax 1671
+ymax 349
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 114
+height 200
+color #ffcc9d3e
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 0
+]<p align="center"><font face="Lithos Pro Regular" size="10" color="#cc9d3e" letterSpacing="1.000000" kerning="1"><b>On</b></font></p>

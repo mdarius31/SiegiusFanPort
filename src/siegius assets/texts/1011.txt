@@ -1,0 +1,18 @@
+[
+xmin 2221
+ymin 283
+xmax 5786
+ymax 1020
+][
+font 915
+height 1040
+color #ffffff
+x 2140
+y 1000
+spacing "K" -84
+spacing "S" -146
+spacingpair "I" "C" -362
+spacingpair "C" "K" -69
+spacingpair " " "A" -35
+spacingpair "A" "S" -22
+]KICK ASS

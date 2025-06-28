@@ -1,0 +1,13 @@
+[
+xmin 992
+ymin 15
+xmax 2010
+ymax 259
+translatex 988
+][
+font 114
+height 240
+letterspacing 20
+color #cc9d3e
+y 240
+]Music

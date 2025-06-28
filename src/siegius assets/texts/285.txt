@@ -1,0 +1,14 @@
+[
+xmin -806
+ymin 37
+xmax 196
+ymax 334
+translatex -899
+][
+font 114
+height 320
+color #f7ce72
+x 80
+y 300
+spacingpair "Y" "o" -1
+]You!

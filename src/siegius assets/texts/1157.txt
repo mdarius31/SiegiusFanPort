@@ -1,0 +1,11 @@
+[
+xmin -1
+ymin 32
+xmax 1641
+ymax 246
+][
+font 759
+height 240
+color #ceb06c
+y 220
+]Time Taken:

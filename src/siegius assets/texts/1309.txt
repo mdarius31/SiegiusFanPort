@@ -1,0 +1,12 @@
+[
+xmin 1805
+ymin 22
+xmax 2799
+ymax 276
+][
+font 114
+height 260
+color #cd9e3f
+x 1800
+y 260
+]Spells

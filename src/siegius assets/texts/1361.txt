@@ -1,0 +1,12 @@
+[
+xmin 1177
+ymin 24
+xmax 3445
+ymax 278
+][
+font 114
+height 260
+color #cd9e3f
+x 1160
+y 260
+]Base Upgrades

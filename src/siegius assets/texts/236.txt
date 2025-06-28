@@ -1,0 +1,14 @@
+[
+xmin -715
+ymin 40
+xmax 1931
+ymax 358
+translatex -729
+][
+font 114
+height 340
+color #f7cf73
+y 320
+spacingpair "i" "c" -1
+spacingpair "e" "s" -1
+]Gallic Tribes

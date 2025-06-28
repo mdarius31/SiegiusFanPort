@@ -1,0 +1,14 @@
+[
+xmin -363
+ymin 41
+xmax 1579
+ymax 358
+translatex -377
+][
+font 114
+height 340
+color #f7cf73
+y 320
+spacingpair "e" "a" -1
+spacingpair "o" "r" -1
+]Creators

@@ -1,0 +1,17 @@
+[
+xmin -13
+ymin 14
+xmax 1162
+ymax 246
+][
+font 1241
+height 240
+color #7f6239
+y 220
+spacingpair "a" "c" 23
+spacingpair "c" "h" 50
+spacingpair "h" "a" 89
+spacingpair "a" "i" 27
+spacingpair "i" "a" -38
+spacingpair "a" "" 27
+]achaia

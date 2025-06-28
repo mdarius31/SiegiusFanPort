@@ -1,0 +1,16 @@
+[
+xmin 14
+ymin 63
+xmax 888
+ymax 325
+][
+font 1244
+height 320
+color #5f4728
+y 300
+spacingpair "I" "T" -67
+spacingpair "T" "A" -10
+spacingpair "A" "L" 22
+spacingpair "L" "Y" -30
+spacingpair "Y" "" 6
+]ITALY

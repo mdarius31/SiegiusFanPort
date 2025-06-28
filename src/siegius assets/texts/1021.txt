@@ -1,0 +1,12 @@
+[
+xmin 29
+ymin 27
+xmax 1468
+ymax 297
+][
+font 114
+height 280
+color #453a27
+y 280
+spacingpair "N" "S" 1
+]DEFENSE

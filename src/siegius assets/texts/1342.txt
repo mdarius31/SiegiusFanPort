@@ -1,0 +1,17 @@
+[
+xmin 1103
+ymin 0
+xmax 2563
+ymax 483
+translatex 1100
+][
+font 759
+height 200
+color #ffcc00
+y 180
+]1. Pots Drop[
+x 0
+y 460
+spacingpair "l" "o" -1
+spacingpair "d" "e" -1
+]and Explode

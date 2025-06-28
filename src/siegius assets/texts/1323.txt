@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 3292
+ymax 429
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 114
+height 300
+color #ffcd9e3f
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Lithos Pro Regular" size="15" color="#cd9e3f" letterSpacing="0.000000" kerning="1"><b>HP Increase</b></font></p>

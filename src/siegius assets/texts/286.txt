@@ -1,0 +1,13 @@
+[
+xmin -1591
+ymin 9
+xmax 1710
+ymax 240
+translatex -1880
+][
+font 114
+height 200
+color #dbb663
+x 300
+y 200
+]Thanks to you, the players!

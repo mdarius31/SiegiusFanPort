@@ -1,0 +1,22 @@
+[
+xmin 0
+ymin 10
+xmax 2493
+ymax 226
+][
+font 1241
+height 200
+color #6f774d
+y 180
+spacing "e" 7
+spacing "a" 22
+spacing "n" 62
+spacingpair "m" "e" 92
+spacingpair "d" "i" 67
+spacingpair "i" "t" -32
+spacingpair "t" "e" 29
+spacingpair "r" "r" 30
+spacingpair "r" "a" 29
+spacingpair " " "s" -2
+spacingpair "s" "e" -10
+]mediterranean sea

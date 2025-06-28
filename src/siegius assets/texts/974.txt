@@ -1,0 +1,11 @@
+[
+xmin 2
+ymin 7
+xmax 791
+ymax 219
+][
+font 114
+height 200
+color #cccccc
+y 200
+]MENU

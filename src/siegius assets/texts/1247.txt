@@ -1,0 +1,18 @@
+[
+xmin 17
+ymin 21
+xmax 1988
+ymax 320
+][
+font 1241
+height 300
+color #7f551b
+y 280
+spacing "a" 34
+spacingpair "g" "e" 92
+spacingpair "e" "r" 11
+spacingpair "r" "m" 44
+spacingpair "m" "a" 139
+spacingpair "n" "i" 92
+spacingpair "i" "a" -48
+]germania

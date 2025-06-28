@@ -1,0 +1,14 @@
+[
+xmin 2313
+ymin -3
+xmax 3320
+ymax 181
+translatex 2277
+][
+font 114
+height 160
+letterspacing 20
+color #cd9e3f
+x 40
+y 160
+]VERCING

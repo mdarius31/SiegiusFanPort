@@ -1,0 +1,13 @@
+[
+xmin 978
+ymin 23
+xmax 2043
+ymax 254
+translatex 955
+][
+font 114
+height 240
+letterspacing 20
+color #cc9d3e
+y 240
+]blood

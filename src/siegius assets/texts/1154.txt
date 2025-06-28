@@ -1,0 +1,20 @@
+[
+xmin -40
+ymin -40
+xmax 6360
+ymax 832
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 759
+height 320
+color #ffceb06c
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Lithos Pro Regular" size="16" color="#ceb06c" letterSpacing="0.000000" kerning="1">Unlocked Soldier: Centurian!</font></p><p align="center"><font face="Lithos Pro Regular" size="16" color="#ceb06c" letterSpacing="0.000000" kerning="1">Unlocked Spell: Arrow Rain</font></p>

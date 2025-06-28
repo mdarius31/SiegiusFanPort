@@ -1,0 +1,13 @@
+[
+xmin 1131
+ymin 0
+xmax 3483
+ymax 208
+translatex 1100
+][
+font 759
+height 200
+color #ffcc00
+y 180
+spacingpair "o" "m" 1
+]1. Drops Smoke Bomb

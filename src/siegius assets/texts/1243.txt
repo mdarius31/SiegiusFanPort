@@ -1,0 +1,16 @@
+[
+xmin 28
+ymin 44
+xmax 1643
+ymax 472
+][
+font 1241
+height 440
+color #7f551b
+y 400
+spacingpair "s" "p" -21
+spacingpair "p" "a" 9
+spacingpair "a" "i" 49
+spacingpair "i" "n" -70
+spacingpair "n" "" 136
+]spain

@@ -1,0 +1,13 @@
+[
+xmin -299
+ymin 40
+xmax 1514
+ymax 358
+translatex -312
+][
+font 114
+height 340
+color #f7cf73
+y 320
+spacing "o" -1
+]Sponsor

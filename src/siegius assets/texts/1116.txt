@@ -1,0 +1,23 @@
+[
+xmin 136
+ymin 18
+xmax 2887
+ymax 258
+translatex 111
+][
+font 114
+height 240
+color #cc9d3e
+y 240
+spacing "a" 21
+spacing "m" 20
+spacing "e" 20
+spacingpair "D" "a" 20
+spacingpair "g" "e" 20
+spacingpair " " "N" 20
+spacingpair "N" "u" 20
+spacingpair "u" "m" 19
+spacingpair "b" "e" 20
+spacingpair "r" "s" 20
+spacingpair "s" "" 20
+]Damage Numbers

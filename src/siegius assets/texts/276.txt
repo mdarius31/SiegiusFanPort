@@ -1,0 +1,14 @@
+[
+xmin -946
+ymin 29
+xmax 1148
+ymax 305
+translatex -1593
+][
+font 114
+height 280
+color #f7ce72
+x 640
+y 280
+spacingpair "W" "a" -1
+]Waterflame

@@ -1,0 +1,13 @@
+[
+xmin 191
+ymin 16
+xmax 2071
+ymax 255
+translatex -104
+][
+font 114
+height 240
+color #cc9d3c
+x 280
+y 240
+]Siegius Guide

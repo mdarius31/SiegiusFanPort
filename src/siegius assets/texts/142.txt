@@ -1,0 +1,14 @@
+[
+xmin -3
+ymin 16
+xmax 2264
+ymax 258
+translatex -104
+][
+font 114
+height 240
+color #cc9d3c
+x 100
+y 240
+spacingpair "a" "m" 1
+]Strategy Games

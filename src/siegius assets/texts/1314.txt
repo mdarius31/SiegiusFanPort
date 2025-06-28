@@ -1,0 +1,11 @@
+[
+xmin 21
+ymin 12
+xmax 3365
+ymax 266
+][
+font 759
+height 260
+color #000000
+y 240
+]start Error - startMsg

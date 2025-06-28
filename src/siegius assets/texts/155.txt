@@ -1,0 +1,11 @@
+[
+xmin 3
+ymin 35
+xmax 1150
+ymax 339
+][
+font 114
+height 320
+color #00ff00
+y 300
+]Mask

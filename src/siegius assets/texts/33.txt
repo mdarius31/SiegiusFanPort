@@ -1,0 +1,11 @@
+[
+xmin 8
+ymin 118
+xmax 440
+ymax 416
+][
+font 19
+height 360
+color #000000
+y 400
+]T[space 44]

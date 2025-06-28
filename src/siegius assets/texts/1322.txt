@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 3152
+ymax 454
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 114
+height 320
+color #ff8d6325
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Lithos Pro Regular" size="16" color="#8d6325" letterSpacing="0.000000" kerning="1"><b>STATS</b></font></p>

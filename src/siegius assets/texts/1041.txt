@@ -1,0 +1,13 @@
+[
+xmin 29
+ymin 22
+xmax 1189
+ymax 300
+][
+font 114
+height 280
+color #453a27
+y 280
+spacingpair "B" "O" -1
+spacingpair "O" "A" 1
+]BOARS

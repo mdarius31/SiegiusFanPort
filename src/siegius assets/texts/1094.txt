@@ -1,0 +1,17 @@
+[
+xmin -265
+ymin 30
+xmax 6063
+ymax 797
+translatex -267
+][
+font 114
+height 320
+color #cd9e3f
+y 300
+spacing "y" -1
+spacingpair "t" "o" -1
+]Are you sure you want to delete?[
+x 520
+y 760
+]Warning: This is Perminent!

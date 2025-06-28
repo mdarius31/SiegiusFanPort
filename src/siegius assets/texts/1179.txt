@@ -1,0 +1,24 @@
+[
+xmin 232
+ymin 53
+xmax 2957
+ymax 1067
+][
+font 114
+height 360
+color #bbb2a1
+x 800
+y 340
+]Locked[
+font 114
+height 220
+x 460
+y 720
+spacingpair "C" "o" 1
+spacingpair "R" "o" -1
+]Complete Roman [
+x 220
+y 1040
+spacing "o" -1
+spacingpair "U" "n" 1
+]Camapgin to Unlock

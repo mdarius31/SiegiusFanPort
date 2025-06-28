@@ -1,0 +1,20 @@
+[
+xmin -6
+ymin -40
+xmax 2886
+ymax 682
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 114
+height 280
+color #fff7cf73
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading -80
+]<p align="center"><font face="Lithos Pro Regular" size="14" color="#f7cf73" letterSpacing="0.000000" kerning="1"><b>add this game &nbsp;to</b></font></p><p align="center"><font face="Lithos Pro Regular" size="14" color="#f7cf73" letterSpacing="0.000000" kerning="1"><b>your site</b></font></p>

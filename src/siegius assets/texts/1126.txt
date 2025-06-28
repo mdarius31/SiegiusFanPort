@@ -1,0 +1,13 @@
+[
+xmin 954
+ymin 16
+xmax 2054
+ymax 255
+translatex 944
+][
+font 114
+height 240
+letterspacing 20
+color #cc9d3e
+y 240
+]Sound

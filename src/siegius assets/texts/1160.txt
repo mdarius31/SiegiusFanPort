@@ -1,0 +1,12 @@
+[
+xmin 104
+ymin 204
+xmax 4736
+ymax 1038
+][
+font 114
+height 1020
+color #ff6666
+y 980
+spacing "E" -1
+]DEFEAT

@@ -1,0 +1,11 @@
+[
+xmin 17
+ymin 114
+xmax 480
+ymax 420
+][
+font 19
+height 360
+color #000000
+y 400
+]G[space 84]

@@ -1,0 +1,15 @@
+[
+xmin 485
+ymin 12
+xmax 2539
+ymax 259
+translatex 459
+][
+font 114
+height 240
+letterspacing 20
+color #cc9d3e
+y 240
+spacingpair "a" "l" 1
+spacingpair "l" "t" 1
+]Health BArs

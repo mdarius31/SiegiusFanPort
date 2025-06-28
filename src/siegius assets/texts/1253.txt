@@ -1,0 +1,23 @@
+[
+xmin -11
+ymin 9
+xmax 1629
+ymax 226
+][
+font 1241
+height 200
+color #6f774d
+y 180
+spacingpair "a" "d" 22
+spacingpair "d" "r" 67
+spacingpair "r" "i" 30
+spacingpair "i" "a" -32
+spacingpair "a" "t" 17
+spacingpair "t" "i" 29
+spacingpair "i" "c" -35
+spacingpair "c" " " 42
+spacingpair " " "s" -2
+spacingpair "s" "e" -10
+spacingpair "e" "a" 7
+spacingpair "a" "" 22
+]adriatic sea

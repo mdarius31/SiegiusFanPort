@@ -1,0 +1,12 @@
+[
+xmin 1121
+ymin 11
+xmax 2516
+ymax 220
+translatex 1100
+][
+font 114
+height 200
+color #cd9e3f
+y 200
+]Behaviour:

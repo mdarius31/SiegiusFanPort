@@ -1,0 +1,11 @@
+[
+xmin 12
+ymin 40
+xmax 422
+ymax 353
+][
+font 114
+height 340
+color #cc9900
+y 320
+]G

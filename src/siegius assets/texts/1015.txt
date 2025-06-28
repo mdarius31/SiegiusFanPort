@@ -1,0 +1,12 @@
+[
+xmin 10
+ymin 27
+xmax 998
+ymax 296
+][
+font 114
+height 280
+color #453a27
+y 280
+spacingpair "O" "L" 1
+]GOLD

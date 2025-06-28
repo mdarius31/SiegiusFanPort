@@ -1,0 +1,11 @@
+[
+xmin 12
+ymin 114
+xmax 440
+ymax 420
+][
+font 19
+height 360
+color #000000
+y 400
+]S[space 44]
